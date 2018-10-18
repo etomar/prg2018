@@ -18,7 +18,7 @@ Nº de los Ejercicios PRG realizados
 | VERONICA |  |  |  |  |  |
 | ADRIÁN | | | |  |  |
 | DAVID | |  |  |  |  |
-| NADIA | |  |  |  |  |
+| NADIA | | 1-6, 9, 12, 15, 18, 19, 20, 21 |  |  |  |
 | DAN |  |  |  |  |  |
 | JONATHAN |  |  |  |  |  |
 | KATHERINE | |  |  |  |  |
