@@ -29,7 +29,7 @@ Nº de los Ejercicios PRG realizados
 | DANIEL | |  |  |   | |
 | ANGEL |  |  |  |  |  |
 | MIGUEL |  |  |  |  |  |
-| CARLOS | 1-2,18 |  |  |  |  |
+| CARLOS |  |1,2,18  |  |  |  |
 | MARCO |  |  | | |
 
 ***
