@@ -11,7 +11,7 @@ Nº de los Ejercicios PRG realizados
 | C, ALEJANDRO | |  |  |  |  |
 | HECTOR | |  |  |  |  |
 | FRANCISCO JOSÉ |  |  |  |  |  |
-| JOSE IGNACIO | |  |  |  |  |
+| JOSE IGNACIO | |1,2,4,6,9,18,21,23 (8)  |  |  |  |
 | DIEGO |  |  |  |  |  |
 | JORDI| |  |  |  |  |
 | ALBERTO |  |  |  |  ||
