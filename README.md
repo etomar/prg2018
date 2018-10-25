@@ -24,7 +24,7 @@ Nº de los Ejercicios PRG realizados
 | KATHERINE | |  |  |  |  |
 | JAVIER | | | |  |  |
 | CRISTINA |  |    |  |  |  |
-| JAVIER R| | 13,14,16,17,23,43 |  |  |  |
+| JAVIER R| | 13,14,16,17,23,34,43 |  |  |  |
 | HERNÁN | |  |  |  |  |
 | DANIEL | |  |  |   | |
 | ANGEL |  |  |  |  |  |
