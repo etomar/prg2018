@@ -20,7 +20,7 @@ Nº de los Ejercicios PRG realizados
 | DAVID | |  |  |  |  |
 | NADIA | | 1-6, 9, 12, 15, 18, 19, 20, 21, 44, 47, 48 |  |  |  |
 | DAN |  | 47 |  |  |  |
-| JONATHAN |  |  |  |  |  |
+| JONATHAN |  |20, 22, 51  |  |  |  |
 | KATHERINE | |  |  |  |  |
 | JAVIER | | | |  |  |
 | CRISTINA |  |    |  |  |  |
