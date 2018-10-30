@@ -28,7 +28,7 @@ Nº de los Ejercicios PRG realizados
 | HERNÁN | | 1,4,6,7,8,16,17,19,24,35,39,42 |  |  |  |
 | DANIEL | |  |  |   | |
 | ANGEL |  | 2,4,8,11,14,16,30,32,33,45-45version2 |  |  |  |
-| MIGUEL |  |  |  |  |  |
+| MIGUEL |  | 28 |  |  |  |
 | CARLOS |  |1,2,4,5,18,30,34 |  |  |  |
 | MARCO |  |1,2,4,6,40,51  | | |
 
