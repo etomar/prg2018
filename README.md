@@ -22,7 +22,7 @@ Nº de los Ejercicios PRG realizados
 | DAN |  | 47 |  |  |  |
 | JONATHAN |  |8,10,18,20,22,26,32,33,48,51  |  |  |  |
 | KATHERINE | |  |  |  |  |
-| JAVIER | 10,11,31| | |  |  |
+| JAVIER | | 10,11,31| |  |  |
 | CRISTINA |  |    |  |  |  |
 | JAVIER R| | 13,14,16,17,23,34,43 |  |  |  |
 | HERNÁN | | 1,4,6,7,8,16,17,19,24,35,39,42 |  |  |  |
