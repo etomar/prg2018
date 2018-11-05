@@ -8,7 +8,7 @@ Nº de los Ejercicios PRG realizados
 | MIGUEL A. |   |   1,2,3,9,19,21,37,51 |      |      |      |
 | ALEJANDRO |  |  |  |  |  |
 | BORJA |  |  |  |  |  |
-| C, ALEJANDRO | |1,46  |  |  |  |
+| C, ALEJANDRO | |1,2,46  |  |  |  |
 | HECTOR | |1,2,3,4,10,19,22,38,50,51  |  |  |  |
 | FRANCISCO JOSÉ |  |  |  |  |  |
 | JOSE IGNACIO | |1,2,4,6,9,13,18,21,23,25,52 (11)  |  |  |  |
