@@ -26,7 +26,7 @@ Nº de los Ejercicios PRG realizados
 | CRISTINA |  |    |  |  |  |
 | JAVIER R| | 13,14,16,17,23,34,43 |  |  |  |
 | HERNÁN | | 1,4,6,7,8,16,17,19,24,35,39,42 |  |  |  |
-| DANIEL | |  |  |   | |
+| DANIEL | | 15,22,27,piramide,newton |  |   | |
 | ANGEL |  | 2,4,8,11,14,16,30,32,33,45-45version2 |  |  |  |
 | MIGUEL |  | 28 |  |  |  |
 | CARLOS |  |1,2,3,4,5,8,18,30,34 |  |  |  |
