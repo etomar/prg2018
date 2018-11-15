@@ -24,7 +24,7 @@ Nº de los Ejercicios PRG realizados
 | KATHERINE | | 3, 7, 17, 24, 51, 56  |  |  |  |
 | JAVIER | | 1,2,6,9,10,11,31| |  |  |
 | CRISTINA |  |    |  |  |  |
-| JAVIER R| | 13,14,16,17,23,34,43 |  |  |  |
+| JAVIER R| | 13,14,16,17,23,34,43 |1,2,3,4  |  |  |
 | HERNÁN | | 1,4,6,7,8,16,17,19,24,35,39,42 |  |  |  |
 | DANIEL | | 15,22,27,piramide,newton |  |   | |
 | ANGEL |  | 2,4,8,11,14,16,30,32,33,45-45version2 |  |  |  |
