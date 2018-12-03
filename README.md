@@ -15,7 +15,7 @@ Nº de los Ejercicios PRG realizados
 | DIEGO |  |  |  |  |  |
 | JORDI| |  |  |  |  |
 | ALBERTO |  | 36,47 |  |  ||
-| VERONICA |1-17 |1-33, 35-59  |1-12  |  |  |
+| VERONICA |1-17 |1-33, 35-59  |1-12  |1-5,7  |  |
 | ADRIÁN | | | |  |  |
 | DAVID | |  |  |  |  |
 | NADIA | | 1-6, 9, 12, 15, 18 - 21, 29, 44, 47, 48 | 1-11, 13 (12) | 1 - 5, 7, 9 |  |
