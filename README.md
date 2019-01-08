@@ -14,7 +14,7 @@ Nº de los Ejercicios PRG realizados
 | JOSE IGNACIO | |1,2,4,6,9,13,18,21,23,25,52 (11)  | 1,2,3,4,5,7,8, 9, 10, 13 (10) |1, 2, 3, 4, 5 (5)  |  |
 | DIEGO |  |  |  |  |  |
 | JORDI| |  |  |  |  |
-| ALBERTO |  | 36,47 |  |  ||
+| ALBERTO |  | 36,47 |  |15  ||
 | VERONICA |1-17 |1-33, 35-59  |1-12  |1-5,7  |  |
 | ADRIÁN | | | |  |  |
 | DAVID | |  |  |  |  |
