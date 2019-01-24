@@ -5,7 +5,7 @@ Nº de los Ejercicios PRG realizados
 
 | Nombre | PRG1 | PRG2 | PRG3 | PRG4 | PRG5 |
 | ------ | ---- | ---- | ---- | ---- | ---- |
-| MIGUEL A. |   |   1,2,3,9,19,21,37,51 |   1,2,3,4,11|   11,14,15,16  |      |
+| MIGUEL A. |   |   1,2,3,9,19,21,37,51 |   1,2,3,4,11|   11,14,15,16  |   1   |
 | ALEJANDRO |  |  |  |  |  |
 | BORJA |  |  |  |  |  |
 | C, ALEJANDRO | |1,2,5,18,46  |  |  |  |
