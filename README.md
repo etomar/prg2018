@@ -30,7 +30,7 @@ Nº de los Ejercicios PRG realizados
 | ANGEL |  | 2,4,8,11,14,16,30,32,33,45-45version2 | 1-8-9 |  |  |
 | MIGUEL |  | 28 |  |  |  |
 | CARLOS |  |1,2,3,4,5,8,18,30,34 |1,2,3,4  |13,14  |1,5,12(3)  |
-| MARCO |  |1, 2, 4, 6, 12, 19, 20, 21, 22, 40, 51  | 1, 2, 3, 4 |11,14,15 |1,2,3,4,5,14,18,24,25,diccionario(10)
+| MARCO |  |1, 2, 4, 6, 12, 19, 20, 21, 22, 40, 51  | 1, 2, 3, 4 |11,14,15 |1,2,3,4,5,14,18,24,25,consolidacion1,consolidacion2,diccionario(12)
 
 ***
 Refererncias
