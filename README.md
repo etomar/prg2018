@@ -15,7 +15,7 @@ Nº de los Ejercicios PRG realizados
 | DIEGO |  |  |  |  |  |
 | JORDI| |  |  |  |  5|
 | ALBERTO |  | 36,47 |  |15(1)  ||
-| VERONICA |1-17 |1-33, 35-59  |1-12  |1-5,7,9-16  |  |
+| VERONICA |1-17 |1-33, 35-59  |1-12  |1-5,7,9-16  |1-10, diccionario, VYO 4,6 |
 | ADRIÁN | | | |  |  |
 | DAVID | |  |  |  |  |
 | NADIA | | 1-6, 9, 12, 15, 18 - 21, 29, 44, 47, 48 | 1-11, 13 (12) | 1 - 5, 7, 9 - 16 (14) | 1-7, 12,15, 16, Fusion, Conso 1-4, MultiSum, 20, 26, Diccionario (19)  |
