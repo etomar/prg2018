@@ -21,7 +21,7 @@ Nº de los Ejercicios PRG realizados
 | JONATHAN |  |(10)  | (2) |  |  |
 | JAVIER | | (7)|(5) | 5,6,7 |  |
 | CRISTINA |  |    |  |  |  |
-| JAVIER R| | (7) |(11)  |(2)  |  |
+| JAVIER R| | (7) |(11)  |(2)  | 1-3-5-6,equiporojo |
 | HERNÁN | | (12) |(4)  | 1,2,3,4,5,7,12 |  |
 | DANIEL | | (5) |  | (1) |4 Consolidación 2, 24,Green Team 19,13, diccionario|
 | ANGEL |  | (10) | (9)|  | 3,4,12,21 |
