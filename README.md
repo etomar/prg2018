@@ -10,7 +10,7 @@ Nº de los Ejercicios PRG realizados
 | BORJA |  |  |  |  |  |             |      |      |      |
 | C, ALEJANDRO | |(5) |  |  |  |             |      |      |      |
 | HECTOR | |10  |  |  |  |             |      |      |      |
-| FRANCISCO JOSÉ |  | (13)|(10) | (7)|  |             |      |      |      |
+| FRANCISCO JOSÉ |  | (13)|(10) | (7)|  |             |   (6,7,8,10)   |      |      |
 | JOSE IGNACIO | | (11)  | (10) |(13)  | (19) |  |  (6)    |      |      |
 | DIEGO |  |  |  |  |  |             |      |      |      |
 | JORDI| |  |  |  |  5|             |      |      |      |
