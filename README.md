@@ -5,7 +5,7 @@ Nº de los Ejercicios PRG realizados
 
 | Nombre | PRG1 | PRG2 | PRG3 | PRG4 | PRG5 | PRG5 cadenas| PRG6 | PRG7 | PRG8 |
 | ------ | ---- | ---- | ---- | ---- | ---- | ----------- | ---- | ---- | ---- |
-| MIGUEL A. |   |  (8)|  ( 5)|  (4) | (12)  |       (1)      |      |      |      |
+| MIGUEL A. |   |  (8)|  ( 5)|  (4) | (12)  |       (1)      |    (6)  |      |      |
 | ALEJANDRO |  |  |  |  |  |             |      |      |      |
 | BORJA |  |  |  |  |  |             |      |      |      |
 | C, ALEJANDRO | |(5) |  |  |  |             |      |      |      |
